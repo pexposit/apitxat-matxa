@@ -1,0 +1,272 @@
+{
+ "avl-v3-0005": {
+  "resum": {
+   "sonores": -23.5,
+   "sordes": -38.0,
+   "contrast": 14.6,
+   "n": 26
+  },
+  "files": [
+   {
+    "frase": 1,
+    "paraula": "casa",
+    "ordre": 0,
+    "sonora": true,
+    "ref": "z",
+    "oit": "z",
+    "caiguda": -12.1,
+    "dur_ms": 50.0
+   },
+   {
+    "frase": 1,
+    "paraula": "cosí",
+    "ordre": 0,
+    "sonora": true,
+    "ref": "z",
+    "oit": "z",
+    "caiguda": -0.6,
+    "dur_ms": 70.0
+   },
+   {
+    "frase": 1,
+    "paraula": "església",
+    "ordre": 0,
+    "sonora": true,
+    "ref": "z",
+    "oit": "z",
+    "caiguda": -25.6,
+    "dur_ms": 45.0
+   },
+   {
+    "frase": 1,
+    "paraula": "església",
+    "ordre": 1,
+    "sonora": true,
+    "ref": "z",
+    "oit": "z",
+    "caiguda": -22.2,
+    "dur_ms": 55.0
+   },
+   {
+    "frase": 1,
+    "paraula": "costat",
+    "ordre": 0,
+    "sonora": false,
+    "ref": "s",
+    "oit": "s",
+    "caiguda": -34.4,
+    "dur_ms": 65.0
+   },
+   {
+    "frase": 2,
+    "paraula": "dotze",
+    "ordre": 0,
+    "sonora": true,
+    "ref": "z",
+    "oit": "d͡z",
+    "caiguda": -33.2,
+    "dur_ms": 50.0
+   },
+   {
+    "frase": 2,
+    "paraula": "roses",
+    "ordre": 0,
+    "sonora": true,
+    "ref": "z",
+    "oit": "z",
+    "caiguda": -24.6,
+    "dur_ms": 60.0
+   },
+   {
+    "frase": 2,
+    "paraula": "jardí",
+    "ordre": 0,
+    "sonora": true,
+    "ref": "ʒ",
+    "oit": "ʒ",
+    "caiguda": -0.9,
+    "dur_ms": 85.0
+   },
+   {
+    "frase": 2,
+    "paraula": "onze",
+    "ordre": 0,
+    "sonora": true,
+    "ref": "z",
+    "oit": "s",
+    "caiguda": -25.2,
+    "dur_ms": 50.0
+   },
+   {
+    "frase": 2,
+    "paraula": "rosses",
+    "ordre": 0,
+    "sonora": false,
+    "ref": "s",
+    "oit": "s",
+    "caiguda": -35.7,
+    "dur_ms": 95.0
+   },
+   {
+    "frase": 3,
+    "paraula": "jove",
+    "ordre": 0,
+    "sonora": true,
+    "ref": "ʒ",
+    "oit": "ʒ",
+    "caiguda": -28.3,
+    "dur_ms": 40.0
+   },
+   {
+    "frase": 3,
+    "paraula": "menja",
+    "ordre": 0,
+    "sonora": true,
+    "ref": "ʒ",
+    "oit": "ʒ",
+    "caiguda": -31.9,
+    "dur_ms": 40.0
+   },
+   {
+    "frase": 3,
+    "paraula": "formatge",
+    "ordre": 0,
+    "sonora": true,
+    "ref": "ʒ",
+    "oit": "d͡ʒ",
+    "caiguda": -28.0,
+    "dur_ms": 45.0
+   },
+   {
+    "frase": 3,
+    "paraula": "platja",
+    "ordre": 0,
+    "sonora": true,
+    "ref": "ʒ",
+    "oit": "d͡ʒ",
+    "caiguda": -24.1,
+    "dur_ms": 35.0
+   },
+   {
+    "frase": 4,
+    "paraula": "xiquet",
+    "ordre": 0,
+    "sonora": false,
+    "ref": "ʃ",
+    "oit": "ʃ",
+    "caiguda": -44.1,
+    "dur_ms": 60.0
+   },
+   {
+    "frase": 4,
+    "paraula": "deixa",
+    "ordre": 0,
+    "sonora": false,
+    "ref": "ʃ",
+    "oit": "ʃ",
+    "caiguda": -38.4,
+    "dur_ms": 85.0
+   },
+   {
+    "frase": 4,
+    "paraula": "cotxe",
+    "ordre": 0,
+    "sonora": false,
+    "ref": "ʃ",
+    "oit": "t͡ʃ",
+    "caiguda": -35.6,
+    "dur_ms": 50.0
+   },
+   {
+    "frase": 4,
+    "paraula": "caixa",
+    "ordre": 0,
+    "sonora": false,
+    "ref": "ʃ",
+    "oit": "ʃ",
+    "caiguda": -36.0,
+    "dur_ms": 100.0
+   },
+   {
+    "frase": 5,
+    "paraula": "zones",
+    "ordre": 0,
+    "sonora": true,
+    "ref": "z",
+    "oit": "z",
+    "caiguda": -35.5,
+    "dur_ms": 130.0
+   },
+   {
+    "frase": 5,
+    "paraula": "presó",
+    "ordre": 0,
+    "sonora": true,
+    "ref": "z",
+    "oit": "z",
+    "caiguda": -26.3,
+    "dur_ms": 75.0
+   },
+   {
+    "frase": 5,
+    "paraula": "són",
+    "ordre": 0,
+    "sonora": false,
+    "ref": "s",
+    "oit": "s",
+    "caiguda": -45.4,
+    "dur_ms": 120.0
+   },
+   {
+    "frase": 5,
+    "paraula": "grises",
+    "ordre": 0,
+    "sonora": true,
+    "ref": "z",
+    "oit": "z",
+    "caiguda": -31.7,
+    "dur_ms": 55.0
+   },
+   {
+    "frase": 5,
+    "paraula": "sessió",
+    "ordre": 0,
+    "sonora": false,
+    "ref": "s",
+    "oit": "s",
+    "caiguda": -32.9,
+    "dur_ms": 90.0
+   },
+   {
+    "frase": 5,
+    "paraula": "sessió",
+    "ordre": 1,
+    "sonora": false,
+    "ref": "s",
+    "oit": "s",
+    "caiguda": -40.1,
+    "dur_ms": 105.0
+   },
+   {
+    "frase": 5,
+    "paraula": "seriosa",
+    "ordre": 0,
+    "sonora": false,
+    "ref": "s",
+    "oit": "s",
+    "caiguda": -37.9,
+    "dur_ms": 130.0
+   },
+   {
+    "frase": 5,
+    "paraula": "seriosa",
+    "ordre": 1,
+    "sonora": true,
+    "ref": "z",
+    "oit": "z",
+    "caiguda": -25.0,
+    "dur_ms": 70.0
+   }
+  ]
+ }
+}

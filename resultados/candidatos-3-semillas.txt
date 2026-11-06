@@ -1,0 +1,156 @@
+v2-0005-l0                   sonores  -21.5 dB  sordes  -37.4 dB  contrast  15.9 dB  (n=26)
+v2-0005-l1                   sonores  -20.8 dB  sordes  -37.0 dB  contrast  16.3 dB  (n=26)
+v2-0005-l2                   sonores  -20.7 dB  sordes  -34.3 dB  contrast  13.6 dB  (n=26)
+v2-0007-l0                   sonores  -19.4 dB  sordes  -36.2 dB  contrast  16.7 dB  (n=26)
+v2-0007-l1                   sonores  -18.6 dB  sordes  -35.5 dB  contrast  17.0 dB  (n=26)
+v2-0007-l2                   sonores  -21.9 dB  sordes  -36.7 dB  contrast  14.8 dB  (n=26)
+v2-0009-l0                   sonores  -20.6 dB  sordes  -36.1 dB  contrast  15.4 dB  (n=26)
+v2-0009-l1                   sonores  -20.6 dB  sordes  -31.0 dB  contrast  10.4 dB  (n=26)
+v2-0009-l2                   sonores  -23.6 dB  sordes  -35.9 dB  contrast  12.4 dB  (n=26)
+v2-0011-l0                   sonores  -19.6 dB  sordes  -34.8 dB  contrast  15.2 dB  (n=26)
+v2-0011-l1                   sonores  -22.7 dB  sordes  -34.2 dB  contrast  11.5 dB  (n=26)
+v2-0011-l2                   sonores  -21.0 dB  sordes  -33.9 dB  contrast  12.8 dB  (n=26)
+v3-0005-l0                   sonores  -23.5 dB  sordes  -38.0 dB  contrast  14.6 dB  (n=26)
+v3-0005-l1                   sonores  -21.8 dB  sordes  -36.7 dB  contrast  14.9 dB  (n=26)
+v3-0005-l2                   sonores  -23.4 dB  sordes  -38.0 dB  contrast  14.6 dB  (n=26)
+v3-0007-l0                   sonores  -21.5 dB  sordes  -37.4 dB  contrast  16.0 dB  (n=26)
+v3-0007-l1                   sonores  -19.4 dB  sordes  -32.5 dB  contrast  13.1 dB  (n=26)
+v3-0007-l2                   sonores  -21.6 dB  sordes  -37.0 dB  contrast  15.4 dB  (n=26)
+v2-0005-l0           sim gina 0.925   sim dona 0.371
+v2-0005-l1           sim gina 0.919   sim dona 0.377
+v2-0005-l2           sim gina 0.915   sim dona 0.392
+v2-0007-l0           sim gina 0.918   sim dona 0.396
+v2-0007-l1           sim gina 0.901   sim dona 0.405
+v2-0007-l2           sim gina 0.908   sim dona 0.394
+v2-0009-l0           sim gina 0.914   sim dona 0.405
+v2-0009-l1           sim gina 0.907   sim dona 0.409
+v2-0009-l2           sim gina 0.894   sim dona 0.430
+v2-0011-l0           sim gina 0.928   sim dona 0.385
+v2-0011-l1           sim gina 0.921   sim dona 0.393
+v2-0011-l2           sim gina 0.921   sim dona 0.388
+v3-0005-l0           sim gina 0.902   sim dona 0.407
+v3-0005-l1           sim gina 0.911   sim dona 0.406
+v3-0005-l2           sim gina 0.913   sim dona 0.399
+v3-0007-l0           sim gina 0.898   sim dona 0.400
+v3-0007-l1           sim gina 0.907   sim dona 0.407
+v3-0007-l2           sim gina 0.906   sim dona 0.418
+v2-0005-l0             F0   210 Hz  variació 4.10 st
+v2-0005-l1             F0   212 Hz  variació 3.88 st
+v2-0005-l2             F0   214 Hz  variació 3.11 st
+v2-0007-l0             F0   214 Hz  variació 2.85 st
+v2-0007-l1             F0   214 Hz  variació 2.86 st
+v2-0007-l2             F0   215 Hz  variació 2.82 st
+v2-0009-l0             F0   216 Hz  variació 4.28 st
+v2-0009-l1             F0   217 Hz  variació 4.70 st
+v2-0009-l2             F0   219 Hz  variació 3.80 st
+v2-0011-l0             F0   210 Hz  variació 4.88 st
+v2-0011-l1             F0   210 Hz  variació 4.66 st
+v2-0011-l2             F0   214 Hz  variació 3.25 st
+v3-0005-l0             F0   208 Hz  variació 3.13 st
+v3-0005-l1             F0   207 Hz  variació 3.85 st
+v3-0005-l2             F0   211 Hz  variació 3.41 st
+v3-0007-l0             F0   214 Hz  variació 3.84 st
+v3-0007-l1             F0   217 Hz  variació 2.86 st
+v3-0007-l2             F0   217 Hz  variació 3.47 st
+v2-0005-l0             PESQ~4.12  STOI~0.996  WER  9.4%
+v2-0005-l1             PESQ~4.07  STOI~0.994  WER 15.1%
+v2-0005-l2             PESQ~4.10  STOI~0.995  WER  7.5%
+v2-0007-l0             PESQ~3.83  STOI~0.989  WER  7.5%
+v2-0007-l1             PESQ~3.99  STOI~0.994  WER  3.8%
+v2-0007-l2             PESQ~4.01  STOI~0.994  WER  7.5%
+v2-0009-l0             PESQ~4.04  STOI~0.995  WER  7.5%
+v2-0009-l1             PESQ~4.04  STOI~0.993  WER  7.5%
+v2-0009-l2             PESQ~3.94  STOI~0.992  WER  3.8%
+v2-0011-l0             PESQ~4.02  STOI~0.994  WER  3.8%
+v2-0011-l1             PESQ~4.02  STOI~0.994  WER  7.5%
+v2-0011-l2             PESQ~3.97  STOI~0.992  WER  7.5%
+v3-0005-l0             PESQ~3.96  STOI~0.992  WER  7.5%
+v3-0005-l1             PESQ~4.14  STOI~0.994  WER  3.8%
+v3-0005-l2             PESQ~4.13  STOI~0.993  WER  3.8%
+v3-0007-l0             PESQ~4.09  STOI~0.994  WER  3.8%
+v3-0007-l1             PESQ~3.98  STOI~0.993  WER  3.8%
+v3-0007-l2             PESQ~4.14  STOI~0.995  WER  3.8%
+v4-0005-l0                   sonores  -21.2 dB  sordes  -36.3 dB  contrast  15.1 dB  (n=26)
+v4-0005-l1                   sonores  -19.5 dB  sordes  -35.1 dB  contrast  15.6 dB  (n=26)
+v4-0005-l2                   sonores  -19.5 dB  sordes  -37.2 dB  contrast  17.8 dB  (n=26)
+v4-0007-l0                   sonores  -17.3 dB  sordes  -36.6 dB  contrast  19.3 dB  (n=26)
+v4-0007-l1                   sonores  -18.8 dB  sordes  -31.0 dB  contrast  12.2 dB  (n=26)
+v4-0007-l2                   sonores  -17.5 dB  sordes  -35.8 dB  contrast  18.3 dB  (n=26)
+v4-0009-l0                   sonores  -21.7 dB  sordes  -33.9 dB  contrast  12.2 dB  (n=26)
+v4-0009-l1                   sonores  -21.6 dB  sordes  -33.7 dB  contrast  12.1 dB  (n=26)
+v4-0009-l2                   sonores  -20.6 dB  sordes  -33.8 dB  contrast  13.2 dB  (n=26)
+v4-0005-l0           sim gina 0.911   sim dona 0.381
+v4-0005-l1           sim gina 0.897   sim dona 0.413
+v4-0005-l2           sim gina 0.894   sim dona 0.422
+v4-0007-l0           sim gina 0.905   sim dona 0.395
+v4-0007-l1           sim gina 0.902   sim dona 0.417
+v4-0007-l2           sim gina 0.891   sim dona 0.411
+v4-0009-l0           sim gina 0.909   sim dona 0.392
+v4-0009-l1           sim gina 0.910   sim dona 0.404
+v4-0009-l2           sim gina 0.892   sim dona 0.395
+v4-0005-l0             F0   208 Hz  variació 2.87 st
+v4-0005-l1             F0   205 Hz  variació 4.19 st
+v4-0005-l2             F0   208 Hz  variació 4.57 st
+v4-0007-l0             F0   214 Hz  variació 4.15 st
+v4-0007-l1             F0   218 Hz  variació 2.81 st
+v4-0007-l2             F0   217 Hz  variació 3.43 st
+v4-0009-l0             F0   215 Hz  variació 3.50 st
+v4-0009-l1             F0   217 Hz  variació 3.50 st
+v4-0009-l2             F0   216 Hz  variació 3.43 st
+v4-0005-l0             PESQ~4.07  STOI~0.995  WER  5.7%
+v4-0005-l1             PESQ~3.95  STOI~0.992  WER  3.8%
+v4-0005-l2             PESQ~3.98  STOI~0.993  WER  5.7%
+v4-0007-l0             PESQ~4.08  STOI~0.993  WER  5.7%
+v4-0007-l1             PESQ~4.01  STOI~0.993  WER  3.8%
+v4-0007-l2             PESQ~3.95  STOI~0.993  WER  3.8%
+v4-0009-l0             PESQ~4.07  STOI~0.995  WER  7.5%
+v4-0009-l1             PESQ~4.07  STOI~0.996  WER  5.7%
+v4-0009-l2             PESQ~4.06  STOI~0.994  WER  7.5%
+v4-0013-l0                   sonores  -17.7 dB  sordes  -35.6 dB  contrast  17.9 dB  (n=26)
+v4-0013-l1                   sonores  -17.2 dB  sordes  -34.5 dB  contrast  17.4 dB  (n=26)
+v4-0013-l2                   sonores  -16.9 dB  sordes  -35.4 dB  contrast  18.5 dB  (n=26)
+v4-0015-l0                   sonores  -21.7 dB  sordes  -36.9 dB  contrast  15.3 dB  (n=26)
+v4-0015-l1                   sonores  -20.6 dB  sordes  -36.9 dB  contrast  16.3 dB  (n=26)
+v4-0015-l2                   sonores  -21.3 dB  sordes  -36.3 dB  contrast  15.0 dB  (n=26)
+v4-0017-l0                   sonores  -21.6 dB  sordes  -35.8 dB  contrast  14.2 dB  (n=26)
+v4-0017-l1                   sonores  -22.6 dB  sordes  -31.4 dB  contrast   8.8 dB  (n=26)
+v4-0017-l2                   sonores  -21.7 dB  sordes  -34.8 dB  contrast  13.2 dB  (n=26)
+v4-0019-l0                   sonores  -19.3 dB  sordes  -33.6 dB  contrast  14.4 dB  (n=26)
+v4-0019-l1                   sonores  -20.6 dB  sordes  -34.1 dB  contrast  13.5 dB  (n=26)
+v4-0019-l2                   sonores  -18.5 dB  sordes  -32.4 dB  contrast  13.9 dB  (n=26)
+v4-0013-l0           sim gina 0.924   sim dona 0.379
+v4-0013-l1           sim gina 0.918   sim dona 0.393
+v4-0013-l2           sim gina 0.923   sim dona 0.377
+v4-0015-l0           sim gina 0.930   sim dona 0.405
+v4-0015-l1           sim gina 0.925   sim dona 0.407
+v4-0015-l2           sim gina 0.930   sim dona 0.411
+v4-0017-l0           sim gina 0.935   sim dona 0.380
+v4-0017-l1           sim gina 0.928   sim dona 0.384
+v4-0017-l2           sim gina 0.924   sim dona 0.382
+v4-0019-l0           sim gina 0.932   sim dona 0.376
+v4-0019-l1           sim gina 0.933   sim dona 0.396
+v4-0019-l2           sim gina 0.938   sim dona 0.371
+v4-0013-l0             F0   217 Hz  variació 4.27 st
+v4-0013-l1             F0   212 Hz  variació 5.74 st
+v4-0013-l2             F0   214 Hz  variació 5.61 st
+v4-0015-l0             F0   220 Hz  variació 3.48 st
+v4-0015-l1             F0   219 Hz  variació 3.99 st
+v4-0015-l2             F0   218 Hz  variació 5.27 st
+v4-0017-l0             F0   213 Hz  variació 3.93 st
+v4-0017-l1             F0   213 Hz  variació 4.68 st
+v4-0017-l2             F0   215 Hz  variació 4.19 st
+v4-0019-l0             F0   214 Hz  variació 4.82 st
+v4-0019-l1             F0   215 Hz  variació 4.56 st
+v4-0019-l2             F0   218 Hz  variació 3.91 st
+v4-0013-l0             PESQ~3.98  STOI~0.995  WER  7.5%
+v4-0013-l1             PESQ~4.00  STOI~0.994  WER  7.5%
+v4-0013-l2             PESQ~4.08  STOI~0.996  WER  9.4%
+v4-0015-l0             PESQ~3.99  STOI~0.991  WER  5.7%
+v4-0015-l1             PESQ~4.04  STOI~0.993  WER  7.5%
+v4-0015-l2             PESQ~3.98  STOI~0.990  WER  7.5%
+v4-0017-l0             PESQ~4.12  STOI~0.996  WER  7.5%
+v4-0017-l1             PESQ~4.08  STOI~0.994  WER 11.3%
+v4-0017-l2             PESQ~4.11  STOI~0.996  WER  5.7%
+v4-0019-l0             PESQ~4.22  STOI~0.995  WER  7.5%
+v4-0019-l1             PESQ~4.04  STOI~0.993  WER  7.5%
+v4-0019-l2             PESQ~4.10  STOI~0.995  WER  7.5%

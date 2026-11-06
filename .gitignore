@@ -1,0 +1,18 @@
+# entorn, models, dades i audios (es generen o es descarreguen; no es redistribuïxen)
+.venv-voz/
+tts/
+voz-dataset/
+*.wav
+*.flac
+*.ckpt
+__pycache__/
+
+# compilació de LaTeX
+articulo/*.aux
+articulo/*.bbl
+articulo/*.blg
+articulo/*.log
+articulo/*.out
+articulo/*.fls
+articulo/*.fdb_latexmk
+articulo/*.synctex.gz
